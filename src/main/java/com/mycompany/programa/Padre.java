@@ -12,6 +12,7 @@ public class Padre {
     
     public void funcion1(){
         System.out.println("Esta es una clase padre");
+          System.out.println("Esto emìeza a funcionar solo");
     }
     
 }
