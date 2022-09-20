@@ -22,6 +22,9 @@ public class Padre {
               
             System.out.println("Esta es una clase padre");
               System.out.println("Esta es una clase padre");
+               
+            System.out.println("Esta es una clase padre");
+              System.out.println("Esta es una clase padre");
     }
     
 }
